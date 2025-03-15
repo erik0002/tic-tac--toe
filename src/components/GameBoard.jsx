@@ -20,7 +20,6 @@ export default function GameBoard() {
           </li>
         ))}
       </ol>
-      <span></span>
     </>
   );
 }
